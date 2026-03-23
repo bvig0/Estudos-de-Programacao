@@ -9,7 +9,8 @@ Repositório utilizado para organizar e documentar meus estudos e exercícios em
 ## 🖥️ Tecnologias Usadas
 
 - JavaScript
-- TypeScript
+    - Node.js
+    - TypeScript
 - Python
 - VisualG
 
